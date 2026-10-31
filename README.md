@@ -1,4 +1,5 @@
 # Tarea3-IEE2714
+<<<<<<< HEAD
 Repositorio de códigos e imágenes (y demás) usados para el desarrollo de la tarea 2.  
 
 ## Pregunta 1
@@ -108,3 +109,6 @@ print(f"Antes: {val_antes} | H(u,v): {val_H} | Después: {val_despues}")
 
 ## Pregunta 2
 
+=======
+Repositorio de códigos e imágenes (y demás) usados para el desarrollo de la tarea 3.  
+>>>>>>> 01989249396a781bb0c350bb71711e3788616882
